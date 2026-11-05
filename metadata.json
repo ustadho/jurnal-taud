@@ -1,0 +1,8 @@
+{
+  "name": "Jurnal TK - Catatan Kegiatan Harian Siswa",
+  "description": "Aplikasi pencatatan kegiatan harian siswa TK/PAUD meliputi kehadiran, murojaah, tartil, tahfidz, adab makan, dan sosialisasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
